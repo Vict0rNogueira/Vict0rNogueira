@@ -1,4 +1,3 @@
-<!-- Banner animado (substitua o link abaixo pelo seu GIF!) -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
@@ -7,9 +6,9 @@
 
 ## 🚀 Sobre mim
 - Desenvolvedor focado em Python e JavaScript  
-- Ambicioso em criar jogos, automações e projetos úteis  
+- Criador de projetos, automações e ideias práticas  
 - Atualmente estudando: Python, HTML/CSS, JavaScript  
-- Paixão por lógica, produtividade e desenvolvimento de ideias do zero  
+- Interesse em hardware com Arduino e ESP32  
 
 ---
 
@@ -29,18 +28,16 @@
 ---
 
 ## 📚 O que estou estudando
-- Python avançado (automação e scripts)
-- JavaScript para auxiliar no front-end
-- Conceitos de hardware com Arduino e ESP32
+- Python avançado (automação e scripts)  
+- JavaScript para front-end  
+- Conceitos de eletrônica e microcontroladores  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vict0rNogueira&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vict0rNogueira&layout=compact&theme=tokyonight" />
-
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vict0rNogueira&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vict0rNogueira&layout=compact&theme=tokyonight" height="160"/>
 </div>
 
 ---
