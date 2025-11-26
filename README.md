@@ -20,8 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/_static/uvicorn.png" width="50"/>
-  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunderClientIcon.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/encode/uvicorn/master/docs/uvicorn.png" width="50"/>
+  <img src="https://raw.githubusercontent.com/rangav/thunder-client-support/master/images/thunderclient.png" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/>
 </p>
@@ -37,8 +37,9 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vict0rNogueira&show_icons=true&theme=tokyonight" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0rNogueira&layout=compact&theme=tokyonight" height="155"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Vict0rNogueira&show_icons=true&theme=tokyonight&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vict0rNogueira&layout=compact&theme=tokyonight&cache_seconds=60" />
+
 </div>
 
 ---
