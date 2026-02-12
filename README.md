@@ -42,5 +42,5 @@
   <br>
   • WhatsApp: **85 99211-4586**  
   <br>
-  • Email: **victorndecastro@outlook.com**
+  • Email: **victornogueiradc@outlook.com**
 </p>
